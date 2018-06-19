@@ -41,7 +41,7 @@ namespace WpfApp7
         }
         private void Btn_Click(object sender, RoutedEventArgs e)
         {
-            image.Source = ((sender as Button).Content as Image).Source;
+           mainImage.Source = ((sender as Button).Content as Image).Source;
 
         }
         private void Button_open_Click(object sender, RoutedEventArgs e)

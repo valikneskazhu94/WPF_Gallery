@@ -18,3 +18,17 @@ C:\Users\Валентин\Desktop\GitHub(works)\Галерея\WpfApp7\obj\Debug
 C:\Users\Валентин\Desktop\GitHub(works)\Галерея\WpfApp7\obj\Debug\WpfApp7.csproj.CoreCompileInputs.cache
 C:\Users\Валентин\Desktop\GitHub(works)\Галерея\WpfApp7\obj\Debug\WpfApp7.exe
 C:\Users\Валентин\Desktop\GitHub(works)\Галерея\WpfApp7\obj\Debug\WpfApp7.pdb
+C:\Users\MAK\Desktop\WPF_Gallery-master\WpfApp7\bin\Debug\WpfApp7.exe.config
+C:\Users\MAK\Desktop\WPF_Gallery-master\WpfApp7\bin\Debug\WpfApp7.exe
+C:\Users\MAK\Desktop\WPF_Gallery-master\WpfApp7\bin\Debug\WpfApp7.pdb
+C:\Users\MAK\Desktop\WPF_Gallery-master\WpfApp7\obj\Debug\WpfApp7.csprojResolveAssemblyReference.cache
+C:\Users\MAK\Desktop\WPF_Gallery-master\WpfApp7\obj\Debug\MainWindow.g.cs
+C:\Users\MAK\Desktop\WPF_Gallery-master\WpfApp7\obj\Debug\App.g.cs
+C:\Users\MAK\Desktop\WPF_Gallery-master\WpfApp7\obj\Debug\WpfApp7_MarkupCompile.cache
+C:\Users\MAK\Desktop\WPF_Gallery-master\WpfApp7\obj\Debug\WpfApp7_MarkupCompile.lref
+C:\Users\MAK\Desktop\WPF_Gallery-master\WpfApp7\obj\Debug\MainWindow.baml
+C:\Users\MAK\Desktop\WPF_Gallery-master\WpfApp7\obj\Debug\WpfApp7.g.resources
+C:\Users\MAK\Desktop\WPF_Gallery-master\WpfApp7\obj\Debug\WpfApp7.Properties.Resources.resources
+C:\Users\MAK\Desktop\WPF_Gallery-master\WpfApp7\obj\Debug\WpfApp7.csproj.GenerateResource.Cache
+C:\Users\MAK\Desktop\WPF_Gallery-master\WpfApp7\obj\Debug\WpfApp7.exe
+C:\Users\MAK\Desktop\WPF_Gallery-master\WpfApp7\obj\Debug\WpfApp7.pdb

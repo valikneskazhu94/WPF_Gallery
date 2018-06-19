@@ -16,28 +16,31 @@
        
 
       
-        <Grid>
+       
             <Image StretchDirection="DownOnly"  Name="mainImage" Source="images/1.jpg"></Image>
             <Slider Name="slider1"  Grid.Column="0" VerticalAlignment="Bottom" Minimum="545"  Value="{Binding ElementName=mainImage, Path=Width, Mode=TwoWay}"  Maximum="1000"/>
-        </Grid>
-        <ScrollViewer  Grid.Column="1" >
-            <StackPanel Orientation="Vertical">
-                
+
+
+        <ScrollViewer  Grid.Column="1"  >
+            <StackPanel Orientation="Vertical" Name="stack_panel1">
+
+                <Button Click="Btn_Click">
                 <Image Source="images/2.jpg" ></Image>
-                <Image Source="images/3.jpg"></Image>
-                <Image Source="images/4.jpg"></Image>
-                
+                </Button>
+                <Button Click="Btn_Click">
+                    <Image Source="images/3.jpg"></Image>
+                </Button>
+                <Button Click="Btn_Click">
+                    <Image Source="images/4.jpg"></Image>
+                </Button>
                 
             </StackPanel>
         </ScrollViewer>
-        <ScrollViewer  Grid.Column="1">
-            <StackPanel Name="stack_panel1" Margin="25,20,25,25">
-
+       
+        <!--<ScrollViewer  Grid.Column="1">
+            <StackPanel  Margin="25,20,25,25">
             </StackPanel>
-        </ScrollViewer>
-
- 
-
+        </ScrollViewer>-->
         <DockPanel Grid.Row="1"  Grid.Column="0" Margin="10,0,0,10">
 
             <Expander Header = "View details" Name="expander1" Expanded="expander1_Expanded" FontSize="10" FontFamily="Times New Roman" Collapsed="expander1_Collapsed">
@@ -45,7 +48,6 @@
             </Expander>
 
         </DockPanel>
-
         <DockPanel   >
             <Button Content="Open" Margin="25" FontSize="16" Click="Button_open_Click" FontFamily="Times New Roman"  Width="77" VerticalAlignment="Bottom" />
             <Button Content="Close" Margin="25" FontSize="16" FontFamily="Times New Roman"  Width="84" Click="Button_close_Click_" VerticalAlignment="Bottom"/>
